@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+    <body>
+        <title> Sheikh Fariha</title>
+        <h1> Sheikh Fariha</h1>
+        <p>Assalamu Alaikum. My name is Sheikh Fariha. I am studying at AIUB in CSE department. m currently exploring web tech.</p>
+        <h3>My hobbies are watching movies,reading books and sleeping.</h3>
+        <ul> 
+            <li>watching movies</li>
+            <li>reading books</li>
+            <li>sleeping</li>
+        </ul>
+        <p style="color:red;"> This is red color.</p>
+        <p style="color:rgb(200,150,250);">This is rgb color.</p>
+        <p style="color:black;"> This is red color.</p>
+        <a href="https://www.kaggle.com/">A link to my favorite website.</a>
+        <img src="aiub image.png">
+
+    </body>
+</html>
